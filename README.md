@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh (Chris)</h1>
+<h1 align="center">Hi 👋, I'm Ansh </h1>
 <h3 align="center">A full-stack developer focusing on enhancing application security.</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development and Application-Security**
